@@ -17,7 +17,7 @@ namespace Breaking
         static void Main(string[] args)
         {
             string line;
-            Console.WriteLine("Title --> ");
+            Console.WriteLine("Enter title --> ");
             line = Console.ReadLine();
             MakeRequest(line);
             System.Threading.Thread.Sleep(2000);
