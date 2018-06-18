@@ -1,0 +1,10 @@
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\t-gaboll\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
